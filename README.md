@@ -7,7 +7,7 @@ A responsive and visually appealing food ordering website showcasing delicious b
 ### 🔗 Live Preview  
 Check out the live demo: [BergerGo Live Preview](https://short-zed.github.io/BergerGo/) 
 
-![BergerGo Preview](./screenshot.gif)  
+![BergerGo Preview](https://github.com/Short-Zed/BergerGo/blob/main/screenshot.gif?raw=true)  
 
 ---
 
